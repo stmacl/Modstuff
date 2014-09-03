@@ -8,4 +8,8 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.proxy.IProxy"/>
 <fullyQualifiedTypeName name="reference.Reference"/>
+<fullyQualifiedTypeName name="com.stmacl.destinymod.reference.Reference"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="com.stmacl.destinymod.configuration.ConfigurationHandler"/>
+<fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
 </qualifiedTypeNameHistroy>

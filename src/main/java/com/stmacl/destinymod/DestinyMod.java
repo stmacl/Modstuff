@@ -1,6 +1,8 @@
 package com.stmacl.destinymod;
 
+import com.stmacl.destinymod.configuration.ConfigurationHandler;
 import com.stmacl.destinymod.proxy.IProxy;
+import com.stmacl.destinymod.reference.Reference;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
@@ -8,19 +10,19 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid= reference.Reference.MOD_ID, name=reference.Reference.MOD_NAME, version=reference.Reference.VERSION)
+@Mod(modid= Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION)
 public class DestinyMod 
 {
-	@Mod.Instance("reference.Reference.MOD_ID")
+	@Mod.Instance(Reference.MOD_ID)
 	public static DestinyMod instance;
 	
-	@SidedProxy(clientSide="com.stmacl.destinymod.proxy.ClientProxy", serverSide= "com.stmacl.destinymod.proxy.ServerProxy")
+	@SidedProxy(clientSide=Reference.CLIENT_PROXY_CLASS, serverSide= Reference.SERVER_PROXY_CLASS )
 	public static IProxy proxy;
 	
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event)
 	{
-	
+		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
 	}
 	
 	@Mod.EventHandler
