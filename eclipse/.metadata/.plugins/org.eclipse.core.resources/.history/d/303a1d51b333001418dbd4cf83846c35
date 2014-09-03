@@ -1,0 +1,18 @@
+[
+{
+  "modid": "DestinyMod",
+  "name": "Destiny Mod",
+  "description": "The Destiny mod allows 2 people to become intertwined for an experience that rewards teamwork and friendship!",
+  "version": "1.0",
+  "credits": "To the few that gave me this idea.",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "stmacl" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+]
+}
