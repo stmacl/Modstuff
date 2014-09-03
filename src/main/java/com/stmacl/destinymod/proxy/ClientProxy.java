@@ -1,0 +1,6 @@
+package com.stmacl.destinymod.proxy;
+
+public class ClientProxy extends CommonProxy 
+{
+
+}
