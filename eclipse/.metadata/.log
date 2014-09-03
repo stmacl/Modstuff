@@ -42,3 +42,738 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2014-09-03 21:51:20.330 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.7.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.core.resources 2 10035 2014-09-03 21:51:21.427
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-03 21:51:36.946
+!MESSAGE Warning: EGit couldn't detect the installation path "gitPrefix" of native Git. Hence EGit can't respect system level
+Git settings which might be configured in ${gitPrefix}/etc/gitconfig under the native Git installation directory.
+The most important of these settings is core.autocrlf. Git for Windows by default sets this parameter to true in
+this system level configuration. The Git installation location can be configured on the
+Team > Git > Configuration preference page's 'System Settings' tab.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 2 0 2014-09-03 21:51:36.948
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Stephen'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:18:48.963
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:18:48.963
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:18:52.020
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:18:52.020
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:18:55.027
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:18:55.027
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:18:58.084
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:18:58.084
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:01.138
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:01.138
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:04.189
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:04.189
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:07.245
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:07.245
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:10.302
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:10.302
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:13.358
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:13.358
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:16.413
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:16.413
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:19.469
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:19.469
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:22.524
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:22.524
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:25.550
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:25.550
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:28.566
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:28.566
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:31.623
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:31.623
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:34.642
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:34.642
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:37.697
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:37.697
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:40.753
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:40.753
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:43.809
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:43.809
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:46.865
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:46.865
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:49.922
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:49.922
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:52.925
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:52.925
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:55.977
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:55.977
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:19:59.030
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:19:59.030
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:02.085
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:02.085
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:05.139
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:05.139
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:08.193
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:08.193
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:11.225
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:11.225
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:14.266
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:14.266
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:17.318
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:17.318
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:20.375
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:20.375
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:23.431
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:23.431
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:26.487
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:26.487
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:29.491
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:29.491
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:32.544
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:32.544
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:35.602
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:35.602
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:38.659
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:38.659
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:41.710
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:41.710
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:44.716
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:44.716
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:47.771
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:47.771
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:50.824
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:50.824
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:53.833
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:53.833
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:56.886
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:56.886
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:20:59.940
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:20:59.940
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:02.997
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:02.997
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:06.050
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:06.050
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:09.108
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:09.108
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:12.162
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:12.162
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:15.216
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:15.216
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:18.273
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:18.273
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:21.326
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:21.326
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:24.378
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:24.378
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:27.435
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:27.435
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:30.487
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:30.487
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:33.541
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:33.541
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:36.598
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:36.598
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:39.600
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:39.601
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:42.657
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:42.657
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:45.708
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:45.708
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:48.764
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:48.765
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:51.821
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:51.821
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:54.826
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:54.826
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:21:57.881
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:21:57.881
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:00.933
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:00.933
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:03.941
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:03.941
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:06.980
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:06.980
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:10.032
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:10.032
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:13.035
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:13.035
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:16.091
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:16.091
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:19.145
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:19.145
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:22.200
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:22.200
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:25.254
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:25.254
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:28.306
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:28.306
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:31.332
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:31.332
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:34.381
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:34.381
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:37.434
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:37.435
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:40.491
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:40.491
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:43.544
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:43.544
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:46.575
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:46.575
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:49.589
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:49.589
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:52.643
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:52.643
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:55.658
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:55.658
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:22:58.710
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:22:58.710
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:01.764
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:01.764
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:04.773
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:04.773
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:07.827
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:07.827
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:10.883
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:10.883
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:13.940
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:13.940
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:16.992
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:16.992
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:20.024
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:20.024
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:23.028
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:23.028
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:26.080
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:26.080
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:29.137
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:29.137
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:32.191
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:32.191
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:35.248
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:35.248
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:38.302
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:38.302
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:41.307
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:41.307
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:44.362
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:44.362
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:47.415
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:47.415
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:50.470
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:50.470
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:53.522
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:53.522
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:56.575
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:56.575
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:23:59.628
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:23:59.628
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:02.682
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:02.682
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:05.739
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:05.739
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:08.791
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:08.791
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:11.845
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:11.845
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:14.849
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:14.849
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:17.901
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:17.901
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:20.911
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:20.911
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:23.965
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:23.965
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:27.025
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:27.025
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:30.081
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:30.081
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:33.135
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:33.135
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:36.139
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:36.139
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:39.192
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:39.192
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:42.246
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:42.246
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:45.301
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:45.301
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:48.310
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:48.310
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:51.312
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:51.312
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:54.369
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:54.369
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:24:57.422
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:24:57.422
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:00.476
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:00.476
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:03.529
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:03.529
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:06.585
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:06.585
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:09.592
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:09.592
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:12.646
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:12.646
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:15.697
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:15.697
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:18.750
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:18.750
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:21.803
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:21.803
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:24.807
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:24.807
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:27.861
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:27.861
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:30.914
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:30.914
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:33.967
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:33.967
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:36.992
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:36.992
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:40.045
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:40.045
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:43.053
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:43.053
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:46.107
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:46.107
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:49.163
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:49.163
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:52.217
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:52.217
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:55.271
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:55.271
+!MESSAGE Problem occurred in auto-refresh native code: 5.
+
+!ENTRY org.eclipse.core.resources 4 1 2014-09-03 22:25:58.325
+!MESSAGE Problems occurred refreshing resources
+!SUBENTRY 1 org.eclipse.core.resources 4 1 2014-09-03 22:25:58.325
+!MESSAGE Problem occurred in auto-refresh native code: 5.
