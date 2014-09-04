@@ -20,7 +20,7 @@ public class ConfigurationHandler {
 		}
 	}
 
-	private static void loadConfiguration() {
+	public static void loadConfiguration() {
 		testValue = configuration.getBoolean("configValue",
 				Configuration.CATEGORY_GENERAL, false, "Test Config value");
 		if (configuration.hasChanged()) {

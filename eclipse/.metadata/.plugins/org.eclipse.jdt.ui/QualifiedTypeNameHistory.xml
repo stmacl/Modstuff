@@ -18,9 +18,9 @@
 <fullyQualifiedTypeName name="net.minecraftforge.common.config.ConfigElement"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.reference.Reference"/>
 <fullyQualifiedTypeName name="net.minecraftforge.common.config.Configuration"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent.OnConfigChangedEvent"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.client.gui.ModGuiConfig"/>
 <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.utility.LogHelper"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
 </qualifiedTypeNameHistroy>

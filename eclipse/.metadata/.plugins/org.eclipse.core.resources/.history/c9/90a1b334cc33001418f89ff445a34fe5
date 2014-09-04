@@ -5,7 +5,6 @@ import com.stmacl.destinymod.proxy.IProxy;
 import com.stmacl.destinymod.reference.Reference;
 import com.stmacl.destinymod.utility.LogHelper;
 
-import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -23,7 +22,6 @@ public class DestinyMod {
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
 		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-		FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
 		LogHelper.info("Pre Initialization Complete!");
 	}
 
