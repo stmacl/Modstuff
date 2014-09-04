@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 [01:53:26] [main/INFO]: Setting user: ForgeDevName
 [01:53:27] [Client thread/INFO]: LWJGL Version: 2.9.1
 [01:53:29] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Destiny Mod
+=======
+[23:30:30] [main/INFO]: Setting user: ForgeDevName
+[23:30:31] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:30:33] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Destiny Mod
+[23:30:34] [Sound Library Loader/INFO]: Sound engine started
+[23:30:34] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:30:34] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:30:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Destiny Mod
+[23:30:34] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:30:35] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:30:35] [Sound Library Loader/INFO]: Sound engine started
+[23:30:50] [Client thread/INFO]: Stopping!
+>>>>>>> parent of 63561da... Config Creation

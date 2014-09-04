@@ -8,6 +8,7 @@
 <fullyQualifiedTypeName name="cpw.mods.fml.common.SidedProxy"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.proxy.IProxy"/>
 <fullyQualifiedTypeName name="reference.Reference"/>
+<<<<<<< HEAD
 <fullyQualifiedTypeName name="java.io.File"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.configuration.ConfigurationHandler"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.client.event.ConfigChangedEvent"/>
@@ -23,4 +24,6 @@
 <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
 <fullyQualifiedTypeName name="com.stmacl.destinymod.utility.LogHelper"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.FMLCommonHandler"/>
+=======
+>>>>>>> parent of 63561da... Config Creation
 </qualifiedTypeNameHistroy>

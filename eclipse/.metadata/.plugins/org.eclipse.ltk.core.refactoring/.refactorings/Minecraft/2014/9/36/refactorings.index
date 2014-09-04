@@ -4,6 +4,7 @@
 1409782779894	Copy package
 1409782787033	Delete element
 1409782826214	Rename package 'reference.copy'
+<<<<<<< HEAD
 1409784018556	Move file
 1409784021593	Delete element
 1409784128607	Delete element
@@ -11,3 +12,5 @@
 1409786953112	Move compilation unit
 1409787144532	Rename type 'GuiConfig'
 1409791995300	Infer generic type arguments
+=======
+>>>>>>> parent of 63561da... Config Creation
