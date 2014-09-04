@@ -1,0 +1,5 @@
+package com.stmacl.destinymod.client.gui;
+
+public class ModGuiConfig extends ModGuiConfig{
+
+}

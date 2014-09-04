@@ -1,0 +1,32 @@
+package com.stmacl.destinymod.Handler;
+
+import java.io.File;
+
+import net.minecraftforge.common.config.Configuration;
+
+public class ConfigurationHandler
+{
+	public static Configuration configuration;
+	public static void init(File configFile)
+	{
+		Configuration configuration = new Configuration(configFile);
+		boolean configValue=false;
+		try
+		{
+			configuration.load();
+			
+			configValue= configuration.get("Banana", "configValue", true, "Example Config Value").getBoolean(true);
+		}
+		catch(Exception e)
+		{
+			
+		}
+		finally
+		{
+			if(configuration.hasChanged())
+			{
+				configuration.save();
+			}
+		}
+	}
+}       

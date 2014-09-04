@@ -1,0 +1,5 @@
+package com.stmacl.destinymod.utility;
+
+public class LogHelper {
+
+}
